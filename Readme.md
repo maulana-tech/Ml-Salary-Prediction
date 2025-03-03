@@ -33,3 +33,11 @@ Proyek ini mencakup:
 ## Instalasi
 
 1. Clone repository ini:
+    ```bash
+    git clone https://github.com/maulana-tech/Ml-Salary-Prediction.git
+
+2. Instal Dependensi:
+    ```bash
+    pip install -r requirements.txt
+
+
